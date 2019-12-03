@@ -1,0 +1,6 @@
+classes = 1
+train  = /home/spaggy/Documents/monkey/monkey_train.txt
+valid  = /home/spaggy/Documents/monkey/monkey_test.txt
+names = /home/spaggy/Documents/monkey/classes.names
+backup = /home/spaggy/Documents/monkey/weights
+
